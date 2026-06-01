@@ -3,7 +3,7 @@
  
 
 read -p "which site you want to check" site
-
+#&> /dev/null is used to if we dont want to print any out of command in terminal 
 ping $site &> /dev/null
 #sleep 5s
 
