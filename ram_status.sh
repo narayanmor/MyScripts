@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
-#!/bin/bash
+FREE_SPACE=
 
 
